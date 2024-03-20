@@ -1,0 +1,11 @@
+$color:red;
+ul{
+    li{
+        font-size: larger;
+        color: $color;    
+    }
+}
+ol{
+    font-size: 20px;
+    color: $color;
+}
